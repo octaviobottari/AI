@@ -1,0 +1,50 @@
+# =====================
+# Python
+# =====================
+.venv/
+venv/
+hazardous-waste-profiler/backend/__pycache__/
+hazardous-waste-profiler/backend/*.pyc
+hazardous-waste-profiler/backend/*.pyo
+hazardous-waste-profiler/backend/.pytest_cache/
+hazardous-waste-profiler/backend/.mypy_cache/
+hazardous-waste-profiler/backend/profiles.db  
+
+# =====================
+# Node.js
+# =====================
+hazardous-waste-profiler/frontend/node_modules/
+hazardous-waste-profiler/frontend/.next/
+hazardous-waste-profiler/frontend/out/
+hazardous-waste-profiler/frontend/build/
+hazardous-waste-profiler/frontend/.eslintcache
+hazardous-waste-profiler/frontend/npm-debug.log*
+hazardous-waste-profiler/frontend/yarn-debug.log*
+hazardous-waste-profiler/frontend/yarn-error.log*
+
+# =====================
+# Environment Variables
+# =====================
+.env
+.env.local
+.env.production
+
+# =====================
+# IDE
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =====================
+# OS
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Logs
+# =====================
+*.log
+logs/

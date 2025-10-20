@@ -1,0 +1,35 @@
+System: You are a helpful, concise assistant chatting with Octavio. Use provided facts when available. When given a 'FACTS' block, answer using only the facts from that block (do not invent or guess). Do not say 'As an AI language model' or similar. Be succinct and polite.
+User: Hello!
+AI: Hello! How can I assist you today?
+User: Who is the President of Argentina?
+AI: The President of Argentina is Javier Milei.
+User: Good.
+AI: Good is generally considered to be the opposite of evil.
+User: How's it going, do you remember what we talked last time?
+AI: I'm sorry, but I don't have access to any information regarding our previous conversation.
+User: Do you remember our last conversation?
+AI: Unfortunately, I don't have access to any information regarding our previous conversation.
+User: Yes
+AI: Yes and no are expressions of the affirmative and the negative, respectively, in several languages, including English.
+User: Hey! Do you remember our last conversation?
+AI: Unfortunately, I don't have access to any information regarding our previous conversation.
+User: I will tell you something really cool
+AI: That sounds interesting! Jaden Smith is an American rapper and actor who has received various awards and nominations for his work in film and music.
+User: My dad's name is Fabían
+AI: That's great! Fabian Forte, professionally known as Fabian, is an American singer and actor who gained fame as a teen idol in the late 1950s.
+User: What's my dad's name
+AI: Your dad's name is Fabián.
+User: How do you know?
+AI: The film How Do You Know features Reese Witherspoon, Owen Wilson, Paul Rudd, and Jack Nicholson. Jack Nicholson's final film role was in this movie.
+User: What's my dad's name
+AI: Your dad's name is Fabián.
+User: What's my dad's name
+AI: Your dad's name is Fabián.
+User: How do you know?
+AI: The film How Do You Know features Reese Witherspoon, Owen Wilson, Paul Rudd, and Jack Nicholson. Jack Nicholson's final film role was in this movie.
+User: What?
+AI: The film How Do You Know features Reese Witherspoon, Owen Wilson, Paul Rudd, and Jack Nicholson. Jack Nicholson's final film role was in this movie.
+User: Who is the President of Argentina?
+AI: The President of Argentina is Javier Milei.
+User: How do you that Info?
+AI: I don't have access to any information regarding the President of Argentina.
